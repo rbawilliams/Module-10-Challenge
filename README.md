@@ -1,4 +1,4 @@
-# Project Name: Cryto Clustering
+# Project Name: Cryptocurrency Clustering
 
 ![Alt text](10-5-challenge-image.png)
 
